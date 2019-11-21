@@ -120,7 +120,7 @@ Example :
 > | example.man(Gender.male) | homme | man |
 > | example.man(Gender.female) | femme | woman |
 
-See [example](flutter_sheet_localization_generator/example) for more details.
+See [example](flutter_sheet_localization_generator_example/example) for more details.
 
 #### Plurals
 
@@ -144,7 +144,7 @@ Plural plural(int count) {
 }
 ```
 
-See [example](flutter_sheet_localization_generator/example) for more details.
+See [example](flutter_sheet_localization_generator_example/example) for more details.
 
 ### Dynamic labels
 
@@ -160,7 +160,7 @@ values.hello, "Hello {{first_name}}!"
 print(labels.values.hello(firstName: "World"));
 ```
 
-See [example](flutter_sheet_localization_generator/example) for more details.
+See [example](flutter_sheet_localization_generator_example/example) for more details.
 
 ## Why ?
 
